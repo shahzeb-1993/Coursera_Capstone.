@@ -10,4 +10,7 @@ git clone https://github.com/shahzeb-1993/Coursera_Capstone..git
 ls
 print "Hello GitHub"
 print("Hello Github!")
+mkdir ~/Desktop/projects
+cd ~/Desktop/projects
+git clone <repository_URL>
 vim python_code.py
