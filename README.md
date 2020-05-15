@@ -16,3 +16,8 @@ cd ~/Desktop/projects/Coursera_Capstone.
 print "Hello GitHub"
 print("Hello Github!")
 vim python_code.py
+git status
+git add python_code.py
+git commit -m This notebook will be mainly used for the capstone project.
+git push origin master
+git push
