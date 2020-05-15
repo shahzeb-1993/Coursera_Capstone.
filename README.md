@@ -18,6 +18,9 @@ print("Hello Github!")
 vim python_code.py
 git status
 git add python_code.py
+import pandas as pd
+import Numpy as np
+print ("Hello Capstone Project Course!")
 git commit -m This notebook will be mainly used for the capstone project.
 git push origin master
 git push
